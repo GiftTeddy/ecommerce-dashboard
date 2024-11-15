@@ -72,7 +72,6 @@ A simple e-commerce admin dashboard built using Angular and the FakeStore API fo
 ## Technical Requirements
 - Angular
 - Angular Material
-- Node.js
 
 ## Suggested Features
 - **Filter/Search Products**: Add functionality to filter or search products in the product list.
